@@ -1,0 +1,1 @@
+"use strict";var edit=document.querySelector(".header__nav-toggle"),modal=document.querySelector(".nav");edit.addEventListener("click",function(e){e.preventDefault(),modal.classList.toggle("nav-open")});
